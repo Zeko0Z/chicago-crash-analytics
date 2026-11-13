@@ -7,6 +7,8 @@
 | **Instructor** | Eng. Mariam El-Habashi |
 | **Submission** | Phase 1 – Project Proposal |
 | **Date** | 13 November 2026 |
+| **Video walkthrough** | [https://drive.google.com/file/d/1_5G8RHkdUjO4ONicAv35nI8971htInrL/view?usp=drive_link](https://drive.google.com/file/d/1_5G8RHkdUjO4ONicAv35nI8971htInrL/view?usp=drive_link) |
+| **GitHub repository** | [https://github.com/Zeko0Z/chicago-crash-analytics](https://github.com/Zeko0Z/chicago-crash-analytics) |
 
 _Phase 1 project proposal. The PDF version is `docs/proposal.pdf`._
 
