@@ -195,10 +195,10 @@ The schema, views and checks were executed and tested on PostgreSQL 16 (includin
 | # | Full Name | University ID | Role |
 |---|---|---|---|
 | 1 | Zeyad Nasr Elden Mohamed | 692300288 | Database & Docker Engineer (PostgreSQL schema, Docker environment, GitHub repository) |
-| 2 | Ahmed Maged Saaed | 692300096 | Team Member |
-| 3 | Abdelrhamn Mohamed Saad | 692300260 | Team Member |
-| 4 | Mohamed Magdy | 692300414 | Team Member |
-| 5 | Ahmed Mohamed Wageh | 692300198 | Team Member |
+| 2 | Ahmed Mohamed Wageh | 692300198 | Analytical questions and proposal preparation |
+| 3 | Mohamed Magdy | 692300414 | Docker, PostgreSQL and pgAdmin |
+| 4 | Abdelrhamn Mohamed Saad | 692300260 | Architecture diagram and GitHub |
+| 5 | Ahmed Maged Saaed | 692300096 | Project review and video preparation |
 
 
 ## References
