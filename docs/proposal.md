@@ -3,10 +3,10 @@
 
 | | |
 |---|---|
-| **Course** | [Course Name and Code] |
-| **Instructor** | [Instructor Name] |
+| **Course** | Data Engineering (INF 4058) |
+| **Instructor** | Eng. Mariam El-Habashi |
 | **Submission** | Phase 1 – Project Proposal |
-| **Date** | [Submission Date] |
+| **Date** | 13 November 2026 |
 
 _Phase 1 project proposal. The PDF version is `docs/proposal.pdf`._
 
@@ -192,13 +192,12 @@ The schema, views and checks were executed and tested on PostgreSQL 16 (includin
 
 | # | Full Name | University ID | Role |
 |---|---|---|---|
-| 1 | [Full Name] | [University ID] | [Role] |
-| 2 | [Full Name] | [University ID] | [Role] |
-| 3 | [Full Name] | [University ID] | [Role] |
-| 4 | [Full Name] | [University ID] | [Role] |
-| 5 | [Full Name] | [University ID] | [Role] |
+| 1 | Zeyad Nasr Elden Mohamed | 692300288 | Database & Docker Engineer (PostgreSQL schema, Docker environment, GitHub repository) |
+| 2 | Ahmed Maged Saaed | 692300096 | Team Member |
+| 3 | Abdelrhamn Mohamed Saad | 692300260 | Team Member |
+| 4 | Mohamed Magdy | 692300414 | Team Member |
+| 5 | Ahmed Mohamed Wageh | 692300198 | Team Member |
 
-*Suggested roles (edit as needed):* Project Lead & Documentation; Data Engineer – Ingestion; Database Engineer – Schema & Quality; Orchestration Engineer – Kestra; Analytics & Dashboard Engineer.
 
 ## References
 
