@@ -1,0 +1,40 @@
+# --- Secrets and local environment --------------------------------------------
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.pgpass
+
+# --- Data files (download them; never commit large raw data) -------------------
+data/
+*.csv
+*.csv.gz
+*.parquet
+*.zip
+
+# --- Python ---------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# --- Docker / database local files ------------------------------------------------
+pgdata/
+postgres_data/
+pgadmin_data/
+docker-compose.override.yml
+
+# --- Editors and OS ---------------------------------------------------------------
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# --- Logs -------------------------------------------------------------------------
+*.log
+logs/
